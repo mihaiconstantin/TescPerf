@@ -50,7 +50,7 @@
 ![dataset structure](demo/dataset_structure.PNG)
 
 - ***note:*** in case there are multiple authors, they are collapsed into a single string, with each author delimited by an `#`
-	- e.g., `Author One#Author Two#Authors Three#Authors 4`
+	- e.g., `Author One#Author Two#Author Three#Author four`
 	- you can easily obtain an iterable data structure by splitting the string by `#` 
 
 ### Testing
