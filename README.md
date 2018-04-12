@@ -1,4 +1,4 @@
-## Publication KPIs for Tilburg Experience Sampling Center 
+## Publishing KPIs for Tilburg Experience Sampling Center 
 
 ### Project description
 - this project aims at identifying research papers published by researchers at Tilburg School of Social and Behavioral Sciences (TSB)
