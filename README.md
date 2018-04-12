@@ -10,9 +10,8 @@
 	- [`Beautiful Soup`](https://github.com/waylan/beautifulsoup)
 
 ### Installation
-- prerequisites: `Python 3`, the `pip` package manager, and [`virtualenv`](https://github.com/pypa/virtualenv) need to be installed and available from your terminal
-
-- installation steps:
+- **prerequisites:** `Python 3`, the `pip` package manager, and [`virtualenv`](https://github.com/pypa/virtualenv) need to be installed and available from your terminal
+- **installation steps:**
 	- clone the `git` repository and `cd` into `TescPerf`
 	- create a virtual environment by running `virtualenv venv`
 	- run `cd venv/Scripts` followed by `activate.bat` if you are on Windows, or `./activate` for Linux
